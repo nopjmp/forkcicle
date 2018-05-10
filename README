@@ -1,0 +1,8 @@
+Forkcicle
+==========================================
+
+Forkcicle is a simple supervisor. This helps with dealing with double forking processes and sending signals to them. Forkcicle will propage any signals it receives to all of it's children.
+
+WIP Need to create a Makefile and such for easier installation and compilation.
+
+ASCII files are love, ASCII files are life
